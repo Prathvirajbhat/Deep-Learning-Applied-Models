@@ -17,11 +17,6 @@ This repository includes:
 
 All models were implemented and tested using real-world datasets.
 
----
-
-## 📂 Repository Structure
-
----
 
 ## 🧠 Models Implemented
 
